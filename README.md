@@ -6,8 +6,7 @@ Im Angelo Martin , a passionate coder with strong skills in database management.
  My tech journey began when I enrolled in the BS Information System program.
 
 ## Education
-
-- **BS Information System**
+**BS Information System**
   New Era University
   2018-Present
 
